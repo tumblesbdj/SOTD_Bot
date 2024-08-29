@@ -21,8 +21,8 @@ This is a Discord bot that listens for Spotify track links in a specific Discord
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/tumblesbdj/SOTD_Bot
+cd SOTD_Bot
 ```
 
 ### Step 2: Install Dependencies
