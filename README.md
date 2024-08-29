@@ -60,7 +60,7 @@ pip install discord.py spotipy
 ### Step 4: Run the Bot
 
 ```bash
-python <your-bot-script>.py
+python sotd_bot.py
 ```
 
 ### Step 5: Authorize the Spotify Application
